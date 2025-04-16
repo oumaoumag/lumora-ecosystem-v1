@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Center circle -->
+  <circle cx="100" cy="100" r="20" fill="#FFD700" />
+  
+  <!-- Petals - First layer -->
+  <path d="M100,80 Q120,60 100,40 Q80,60 100,80" fill="#FF6B6B" />
+  <path d="M120,100 Q140,80 160,100 Q140,120 120,100" fill="#FF6B6B" />
+  <path d="M100,120 Q120,140 100,160 Q80,140 100,120" fill="#FF6B6B" />
+  <path d="M80,100 Q60,80 40,100 Q60,120 80,100" fill="#FF6B6B" />
+  
+  <!-- Petals - Second layer (45 degree rotated) -->
+  <path d="M115,85 Q135,65 145,95 Q125,115 115,85" fill="#FF9E9E" />
+  <path d="M115,115 Q135,135 145,105 Q125,85 115,115" fill="#FF9E9E" />
+  <path d="M85,115 Q65,135 55,105 Q75,85 85,115" fill="#FF9E9E" />
+  <path d="M85,85 Q65,65 55,95 Q75,115 85,85" fill="#FF9E9E" />
+</svg>

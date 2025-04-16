@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle removed -->
+
+  <!-- Lotus Petals - Outer Layer -->
+  <path d="M100,30 C120,50 140,80 140,110 C140,125 130,140 100,140 C70,140 60,125 60,110 C60,80 80,50 100,30 Z" fill="#8B5338" opacity="0.8"/>
+  <path d="M65,45 C75,70 75,100 65,120 C60,130 50,135 30,130 C20,125 15,115 20,100 C30,75 50,55 65,45 Z" fill="#996D55" opacity="0.7"/>
+  <path d="M135,45 C125,70 125,100 135,120 C140,130 150,135 170,130 C180,125 185,115 180,100 C170,75 150,55 135,45 Z" fill="#996D55" opacity="0.7"/>
+  <path d="M40,75 C60,80 80,95 85,115 C87,125 85,135 70,145 C60,150 45,150 35,135 C25,115 30,90 40,75 Z" fill="#B08D6B" opacity="0.6"/>
+  <path d="M160,75 C140,80 120,95 115,115 C113,125 115,135 130,145 C140,150 155,150 165,135 C175,115 170,90 160,75 Z" fill="#B08D6B" opacity="0.6"/>
+
+  <!-- Lotus Petals - Inner Layer -->
+  <path d="M100,50 C110,65 120,85 120,105 C120,115 115,125 100,125 C85,125 80,115 80,105 C80,85 90,65 100,50 Z" fill="#CBA672" opacity="0.9"/>
+  <path d="M80,60 C85,75 85,95 80,110 C75,115 70,120 60,115 C55,110 50,105 55,95 C60,80 70,65 80,60 Z" fill="#CBA672" opacity="0.8"/>
+  <path d="M120,60 C115,75 115,95 120,110 C125,115 130,120 140,115 C145,110 150,105 145,95 C140,80 130,65 120,60 Z" fill="#CBA672" opacity="0.8"/>
+
+  <!-- Center of the Lotus -->
+  <circle cx="100" cy="100" r="15" fill="#66565A"/>
+  <circle cx="100" cy="100" r="10" fill="#6B7E8B"/>
+
+  <!-- Stylized Text (optional) -->
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="24" font-weight="900" text-anchor="middle" fill="#8B5338">Lumora</text>
+</svg>
